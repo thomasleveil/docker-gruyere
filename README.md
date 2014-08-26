@@ -3,7 +3,7 @@
 
 A docker image running a small, cheesy web application.
 
-See http://google-gruyere.appspot.com/
+See [http://google-gruyere.appspot.com/](http://google-gruyere.appspot.com/)
 
 
 Usage
